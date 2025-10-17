@@ -11,16 +11,3 @@ SWE485
 
 # 5. Team Roles
 
-# 6. Data Cleaning 
-
-# 7. Feature Engineering 
-
-# 8. Text Preprocessing
-
-# 9. Text Representation
-
-# 10. Modeling & Evaluation 
-
-# 11. Conclusion 
-
-# 12. Project Structure
