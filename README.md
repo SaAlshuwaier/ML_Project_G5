@@ -4,8 +4,7 @@ SWE485
  Car Maintenance Tracking system
  
  
- Roles & Tasks
-| Name | Role / Task | 
+Name ------>  Roles & Tasks
 
 | Reema Almunasser --> data cleaning and handling missing values  |
 
