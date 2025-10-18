@@ -6,7 +6,7 @@ SWE485
  
  Roles & Tasks
 | Name | Role / Task | 
-|----------------------------|
+
 | Reema Almunasser |  data cleaning and handling missing values  |
 | Sadeem Alsayari |  general overview , text , categorical , temporal Preprocessing  |
 |   Leen Alohali  | text , categorical , temporal Preprocessing |
