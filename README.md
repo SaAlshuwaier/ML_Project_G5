@@ -8,10 +8,10 @@ Name ------>  Roles & Tasks
 
 | Reema Almunasser --> data cleaning and handling missing values  |
 
-| Sadeem Alsayari --->  general overview , text , categorical , temporal Preprocessing  |
+| Sadeem Alsayari --->  general overview , text , categorical , temporal Preprocessing , feature extraction|
 
 
-|   Leen Alohali  ---->  text , categorical , temporal Preprocessing |
+|   Leen Alohali  ---->  text , categorical , temporal Preprocessing ,  feature correlation and redundancy check , final validation and integrity check |
 
 |  Sara Alshuwaier---->  data set exploration |
 
