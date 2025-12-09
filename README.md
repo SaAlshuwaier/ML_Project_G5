@@ -3,20 +3,13 @@ SWE485
  
  Car Maintenance Tracking system
  
- 
-Name ------>  Roles & Tasks
+Group Members:
+Reema Almunasser 444201088
+Noof Alkhalifa 444200886
+Sara Alshuwaier 444200957
+Leen Alohali 444200882
+Sadeem Alsayari 444201182
 
-| Reema Almunasser --> data cleaning and handling missing values  |
-
-| Sadeem Alsayari --->  general overview , text , categorical , temporal Preprocessing , feature extraction|
-
-
-|   Leen Alohali  ---->  text , categorical , temporal Preprocessing ,  feature correlation and redundancy check , final validation and integrity check |
-
-|  Sara Alshuwaier---->  data set exploration |
-
-
-|  Noof Alkhalifa --->  data set exploration  |
 
 
 Motivation & Problem Statement
